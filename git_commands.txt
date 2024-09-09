@@ -1,0 +1,14 @@
+git init - Initialises an empty git repository
+git branch
+git checkout -b <branch name>  - To create a fresh branch
+git checkout <branch name>     - To switch between branches
+git 
+git status
+git add <filename>
+git add .
+git commit -m "commit message"
+git restore <filename>
+git restore --stage <filename>
+git revert <commit hash>
+git clone <Web URL>
+git push origin master
